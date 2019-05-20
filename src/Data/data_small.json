@@ -1,0 +1,182 @@
+[
+  {
+    "Julia Louis-Dreyfus": {
+      "json_class": "Actor",
+      "name": "Julia Louis-Dreyfus",
+      "age": 56,
+      "total_gross": 7,
+      "movies": [
+        "Troll",
+        "Hannah and Her Sisters",
+        "Soul Man",
+        "National Lampoon's Christmas Vacation",
+        "Jack the Bear",
+        "North",
+        "Fathers' Day",
+        "Deconstructing Harry",
+        "A Bug's Life",
+        "Picture Paris",
+        "Planes",
+        "Enough Said"
+      ]
+    },
+    "Reba McEntire": {
+      "json_class": "Actor",
+      "name": "Reba McEntire",
+      "age": 61,
+      "total_gross": 7,
+      "movies": [
+        "Tremors",
+        "Maverick",
+        "North",
+        "The Little Rascals",
+        "One Night at McCool's",
+        "The Fox and the Hound 2",
+        "Charlotte's Web",
+        "The Land Before Time: Journey of the Brave"
+      ]
+    },
+    "Ione Skye": {
+      "json_class": "Actor",
+      "name": "Ione Skye",
+      "age": 46,
+      "total_gross": 4257354,
+      "movies": [
+        "River's Edge",
+        "A Night in the Life of Jimmy Reardon",
+        "Say Anything...",
+        "The Rachel Papers",
+        "Mindwalk",
+        "Gas Food Lodging",
+        "Wayne's World",
+        "Guncrazy",
+        "Samantha",
+        "Cityscrapes: Los Angeles",
+        "Girls in Prison",
+        "Four Rooms",
+        "Dream for an Insomniac",
+        "One Night Stand",
+        "Went to Coney Island on a Mission from God... Be Back by Five",
+        "Jump",
+        "But I'm a Cheerleader",
+        "Free",
+        "Fever Pitch",
+        "Zodiac",
+        "Haunt",
+        "Return to Babylon",
+        "Dear Eleanor",
+        "Kitty",
+        "XOXO"
+      ]
+    },
+    "Karina Lombard": {
+      "json_class": "Actor",
+      "name": "Karina Lombard",
+      "age": 48,
+      "total_gross": 47267001,
+      "movies": [
+        "The Doors",
+        "Wide Sargasso Sea",
+        "The Firm",
+        "Legends of the Fall",
+        "Last Man Standing",
+        "Kull the Conqueror"
+      ]
+    },
+    "Robert Stack": {
+      "json_class": "Actor",
+      "name": "Robert Stack",
+      "age": 84,
+      "total_gross": 0,
+      "movies": [
+        "Family Theater",
+        "Lux Radio Theatre"
+      ]
+    },
+    "Chris Tucker": {
+      "json_class": "Actor",
+      "name": "Chris Tucker",
+      "age": 45,
+      "total_gross": 263,
+      "movies": [
+        "The Meteor Man",
+        "House Party 3",
+        "Friday",
+        "Panther",
+        "Dead Presidents",
+        "Money Talks",
+        "The Fifth Element",
+        "Jackie Brown",
+        "Rush Hour",
+        "Rush Hour 2",
+        "Rush Hour 3",
+        "Silver Linings Playbook",
+        "Billy Lynn's Long Halftime Walk"
+      ]
+    },
+    "The Fifth Element": {
+      "json_class": "Movie",
+      "name": "The Fifth Element",
+      "wiki_page": "https://en.wikipedia.org/wiki/The_Fifth_Element",
+      "box_office": 263,
+      "year": 0,
+      "actors": [
+        "Bruce Willis",
+        "Gary Oldman",
+        "Ian Holm",
+        "Chris Tucker",
+        "Milla Jovovich"
+      ]
+    },
+    "North": {
+      "json_class": "Movie",
+      "name": "North",
+      "wiki_page": "https://en.wikipedia.org/wiki/North_(1994_film)",
+      "box_office": 7,
+      "year": 1994,
+      "actors": [
+        "Elijah Wood",
+        "Jon Lovitz",
+        "Jason Alexander",
+        "Alan Arkin",
+        "Dan Aykroyd",
+        "Kathy Bates",
+        "Faith Ford",
+        "Graham Greene (actor)",
+        "Julia Louis-Dreyfus",
+        "Reba McEntire",
+        "John Ritter",
+        "Abe Vigoda",
+        "Bruce Willis"
+      ]
+    },
+    "Last Man Standing": {
+      "json_class": "Movie",
+      "name": "Last Man Standing",
+      "wiki_page": "https://en.wikipedia.org/wiki/Last_Man_Standing_(film)",
+      "box_office": 47267001,
+      "year": 1996,
+      "actors": [
+        "Bruce Willis",
+        "Christopher Walken",
+        "Alexandra Powers",
+        "David Patrick Kelly",
+        "Karina Lombard",
+        "Bruce Dern"
+      ]
+    },
+    "Beavis and Butt-Head Do America": {
+      "json_class": "Movie",
+      "name": "Beavis and Butt-Head Do America",
+      "wiki_page": "https://en.wikipedia.org/wiki/Beavis_and_Butt-Head_Do_America",
+      "box_office": 63,
+      "year": 1996,
+      "actors": [
+        "Demi Moore",
+        "Bruce Willis",
+        "Robert Stack",
+        "Cloris Leachman"
+      ]
+    }
+  }
+]

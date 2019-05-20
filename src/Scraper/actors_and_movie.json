@@ -1,0 +1,969 @@
+{
+  "Avengers: Infinity War": {
+    "json_class": "Movie",
+    "name": "Avengers: Infinity War",
+    "url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Benedict Cumberbatch",
+      "Don Cheadle",
+      "Tom Holland",
+      "Chadwick Boseman",
+      "Paul Bettany",
+      "Elizabeth Olsen",
+      "Anthony Mackie",
+      "Sebastian Stan",
+      "Danai Gurira",
+      "Letitia Wright",
+      "Dave Bautista",
+      "Zoe Saldana",
+      "Josh Brolin",
+      "Chris Pratt"
+    ],
+    "box_office": 2048000000,
+    "year": "2018"
+  },
+  "The Newcomers": {
+    "json_class": "Movie",
+    "name": "The Newcomers",
+    "url": "https://en.wikipedia.org/wiki/The_Newcomers_(film)",
+    "actors": [
+      "Matt McCoy",
+      "Kate Bosworth"
+    ],
+    "box_office": null,
+    "year": null
+  },
+  "Not Another Teen Movie": {
+    "json_class": "Movie",
+    "name": "Not Another Teen Movie",
+    "url": "https://en.wikipedia.org/wiki/Not_Another_Teen_Movie",
+    "actors": [
+      "Chyler Leigh",
+      "Chris Evans",
+      "Jaime Pressly",
+      "Eric Christian Olsen",
+      "Eric Jungmann",
+      "Mia Kirshner",
+      "Deon Richmond",
+      "Cody McMains",
+      "Sam Huntington",
+      "Samm Levine",
+      "Cerina Vincent",
+      "Ron Lester",
+      "Lacey Chabert",
+      "Riley Smith"
+    ],
+    "box_office": 66500000,
+    "year": null
+  },
+  "The Perfect Score": {
+    "json_class": "Movie",
+    "name": "The Perfect Score",
+    "url": "https://en.wikipedia.org/wiki/The_Perfect_Score",
+    "actors": [
+      "Erika Christensen",
+      "Chris Evans",
+      "Bryan Greenberg",
+      "Scarlett Johansson",
+      "Darius Miles",
+      "Leonardo Nam"
+    ],
+    "box_office": 1,
+    "year": "2004"
+  },
+  "Cellular": {
+    "json_class": "Movie",
+    "name": "Cellular",
+    "url": "https://en.wikipedia.org/wiki/Cellular_(film)",
+    "actors": [
+      "Kim Basinger",
+      "Chris Evans",
+      "Jason Statham",
+      "Eric Christian Olsen",
+      "Noah Emmerich",
+      "William H. Macy"
+    ],
+    "box_office": 56400000,
+    "year": null
+  },
+  "Fierce People": {
+    "json_class": "Movie",
+    "name": "Fierce People",
+    "url": "https://en.wikipedia.org/wiki/Fierce_People_(film)",
+    "actors": [
+      "Diane Lane",
+      "Donald Sutherland",
+      "Anton Yelchin",
+      "Chris Evans",
+      "Kristen Stewart"
+    ],
+    "box_office": 2,
+    "year": "2005"
+  },
+  "Fantastic Four": {
+    "json_class": "Movie",
+    "name": "Fantastic Four",
+    "url": "https://en.wikipedia.org/wiki/Fantastic_Four_(2005_film)",
+    "actors": [
+      "Ioan Gruffudd",
+      "Jessica Alba",
+      "Chris Evans",
+      "Michael Chiklis",
+      "Julian McMahon",
+      "Kerry Washington"
+    ],
+    "box_office": 330600000,
+    "year": null
+  },
+  "London": {
+    "json_class": "Movie",
+    "name": "London",
+    "url": "https://en.wikipedia.org/wiki/London_(2005_drama_film)",
+    "actors": [
+      "Chris Evans",
+      "Jessica Biel",
+      "Jason Statham",
+      "Joy Bryant",
+      "Isla Fisher"
+    ],
+    "box_office": 2,
+    "year": "2005"
+  },
+  "TMNT": {
+    "json_class": "Movie",
+    "name": "TMNT",
+    "url": "https://en.wikipedia.org/wiki/TMNT_(film)",
+    "actors": [
+      "James Arnold Taylor",
+      "Nolan North",
+      "Mitchell Whitfield",
+      "Mikey Kelley",
+      "Chris Evans",
+      "Sarah Michelle Gellar",
+      "Mako",
+      "Kevin Smith",
+      "Patrick Stewart",
+      "Ziyi Zhang"
+    ],
+    "box_office": 95600000,
+    "year": "2007"
+  },
+  "Sunshine": {
+    "json_class": "Movie",
+    "name": "Sunshine",
+    "url": "https://en.wikipedia.org/wiki/Sunshine_(2007_film)",
+    "actors": [
+      "Rose Byrne",
+      "Cliff Curtis",
+      "Chris Evans",
+      "Troy Garity",
+      "Cillian Murphy",
+      "Hiroyuki Sanada",
+      "Benedict Wong",
+      "Michelle Yeoh"
+    ],
+    "box_office": 32000000,
+    "year": "2007"
+  },
+  "null": {
+    "json_class": "Movie",
+    "name": null,
+    "url": "https://en.wikipedia.org/wiki/Fantastic_Four:_Rise_of_the_Silver_Surfer",
+    "actors": [
+      "Ioan Gruffudd",
+      "Jessica Alba",
+      "Chris Evans",
+      "Michael Chiklis",
+      "Julian McMahon",
+      "Kerry Washington",
+      "Andre Braugher",
+      "Doug Jones",
+      "Laurence Fishburne",
+      "Beau Garrett"
+    ],
+    "box_office": 290000000,
+    "year": "2007"
+  },
+  "The Nanny Diaries": {
+    "json_class": "Movie",
+    "name": "The Nanny Diaries",
+    "url": "https://en.wikipedia.org/wiki/The_Nanny_Diaries_(film)",
+    "actors": [
+      "Scarlett Johansson",
+      "Chris Evans",
+      "Laura Linney",
+      "Paul Giamatti",
+      "Nicholas Art",
+      "Alicia Keys",
+      "Donna Murphy"
+    ],
+    "box_office": 4,
+    "year": null
+  },
+  "Battle for Terra": {
+    "json_class": "Movie",
+    "name": "Battle for Terra",
+    "url": "https://en.wikipedia.org/wiki/Battle_for_Terra",
+    "actors": [
+      "Evan Rachel Wood",
+      "Brian Cox",
+      "James Garner",
+      "Chris Evans",
+      "Danny Glover",
+      "Amanda Peet",
+      "David Cross",
+      "Justin Long",
+      "Dennis Quaid",
+      "Luke Wilson"
+    ],
+    "box_office": 6100000,
+    "year": "2007"
+  },
+  "Street Kings": {
+    "json_class": "Movie",
+    "name": "Street Kings",
+    "url": "https://en.wikipedia.org/wiki/Street_Kings",
+    "actors": [
+      "Keanu Reeves",
+      "Forest Whitaker",
+      "Hugh Laurie",
+      "Chris Evans",
+      "Naomie Harris",
+      "Cedric the Entertainer",
+      "Common",
+      "The Game"
+    ],
+    "box_office": 65500000,
+    "year": "2008"
+  },
+  "The Loss of a Teardrop Diamond": {
+    "json_class": "Movie",
+    "name": "The Loss of a Teardrop Diamond",
+    "url": "https://en.wikipedia.org/wiki/The_Loss_of_a_Teardrop_Diamond",
+    "actors": [
+      "Bryce Dallas Howard",
+      "Chris Evans",
+      "Ellen Burstyn",
+      "Ann-Margret",
+      "Jennifer Sipes"
+    ],
+    "box_office": null,
+    "year": "2008"
+  },
+  "Push": {
+    "json_class": "Movie",
+    "name": "Push",
+    "url": "https://en.wikipedia.org/wiki/Push_(2009_film)",
+    "actors": [
+      "Chris Evans",
+      "Dakota Fanning",
+      "Camilla Belle",
+      "Djimon Hounsou"
+    ],
+    "box_office": 48900000,
+    "year": null
+  },
+  "The Losers": {
+    "json_class": "Movie",
+    "name": "The Losers",
+    "url": "https://en.wikipedia.org/wiki/The_Losers_(film)",
+    "actors": [
+      "Columbus Short",
+      "Zoe Saldana",
+      "Chris Evans",
+      "Idris Elba",
+      "Jeffrey Dean Morgan",
+      "\u00d3scar Jaenada",
+      "Jason Patric"
+    ],
+    "box_office": 29900000,
+    "year": null
+  },
+  "Scott Pilgrim vs. the World": {
+    "json_class": "Movie",
+    "name": "Scott Pilgrim vs. the World",
+    "url": "https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World",
+    "actors": [
+      "Michael Cera",
+      "Mary Elizabeth Winstead",
+      "Kieran Culkin",
+      "Chris Evans",
+      "Anna Kendrick",
+      "Alison Pill",
+      "Brandon Routh",
+      "Jason Schwartzman"
+    ],
+    "box_office": 47700000,
+    "year": "2010"
+  },
+  "Puncture": {
+    "json_class": "Movie",
+    "name": "Puncture",
+    "url": "https://en.wikipedia.org/wiki/Puncture_(film)",
+    "actors": [
+      "Chris Evans",
+      "Vinessa Shaw",
+      "Brett Cullen",
+      "Michael Biehn",
+      "Marshall Bell"
+    ],
+    "box_office": 6,
+    "year": "2011"
+  },
+  "Captain America: The First Avenger": {
+    "json_class": "Movie",
+    "name": "Captain America: The First Avenger",
+    "url": "https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger",
+    "actors": [
+      "Chris Evans",
+      "Tommy Lee Jones",
+      "Hugo Weaving",
+      "Hayley Atwell",
+      "Sebastian Stan",
+      "Dominic Cooper",
+      "Neal McDonough",
+      "Derek Luke",
+      "Stanley Tucci"
+    ],
+    "box_office": 370600000,
+    "year": "2011"
+  },
+  "What's Your Number?": {
+    "json_class": "Movie",
+    "name": "What's Your Number?",
+    "url": "https://en.wikipedia.org/wiki/What%27s_Your_Number%3F",
+    "actors": [
+      "Anna Faris",
+      "Chris Evans",
+      "Ari Graynor",
+      "Blythe Danner"
+    ],
+    "box_office": 30400000,
+    "year": null
+  },
+  "The Avengers": {
+    "json_class": "Movie",
+    "name": "The Avengers",
+    "url": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Tom Hiddleston",
+      "Clark Gregg",
+      "Cobie Smulders",
+      "Stellan Skarsg\u00e5rd",
+      "Samuel L. Jackson"
+    ],
+    "box_office": 1519000000,
+    "year": "2012"
+  },
+  "The Iceman": {
+    "json_class": "Movie",
+    "name": "The Iceman",
+    "url": "https://en.wikipedia.org/wiki/The_Iceman_(film)",
+    "actors": [
+      "Michael Shannon",
+      "Winona Ryder",
+      "James Franco",
+      "Ray Liotta",
+      "Chris Evans"
+    ],
+    "box_office": 4400000,
+    "year": "2012"
+  },
+  "Snowpiercer": {
+    "json_class": "Movie",
+    "name": "Snowpiercer",
+    "url": "https://en.wikipedia.org/wiki/Snowpiercer",
+    "actors": [
+      "Chris Evans",
+      "Song Kang-ho",
+      "Tilda Swinton",
+      "Jamie Bell",
+      "Octavia Spencer",
+      "Ewen Bremner",
+      "Ko Asung",
+      "John Hurt",
+      "Ed Harris"
+    ],
+    "box_office": 86800000,
+    "year": "2013"
+  },
+  "Thor: The Dark World": {
+    "json_class": "Movie",
+    "name": "Thor: The Dark World",
+    "url": "https://en.wikipedia.org/wiki/Thor:_The_Dark_World",
+    "actors": [
+      "Chris Hemsworth",
+      "Natalie Portman",
+      "Tom Hiddleston",
+      "Anthony Hopkins",
+      "Stellan Skarsg\u00e5rd",
+      "Idris Elba",
+      "Christopher Eccleston",
+      "Adewale Akinnuoye-Agbaje",
+      "Kat Dennings",
+      "Ray Stevenson",
+      "Zachary Levi",
+      "Tadanobu Asano",
+      "Jaimie Alexander",
+      "Rene Russo"
+    ],
+    "box_office": 644600000,
+    "year": "2013"
+  },
+  "Captain America: The Winter Soldier": {
+    "json_class": "Movie",
+    "name": "Captain America: The Winter Soldier",
+    "url": "https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier",
+    "actors": [
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Sebastian Stan",
+      "Anthony Mackie",
+      "Cobie Smulders",
+      "Frank Grillo",
+      "Emily VanCamp",
+      "Hayley Atwell",
+      "Robert Redford",
+      "Samuel L. Jackson"
+    ],
+    "box_office": 714300000,
+    "year": "2014"
+  },
+  "Before We Go": {
+    "json_class": "Movie",
+    "name": "Before We Go",
+    "url": "https://en.wikipedia.org/wiki/Before_We_Go",
+    "actors": [
+      "Alice Eve"
+    ],
+    "box_office": 4,
+    "year": "2014"
+  },
+  "Avengers: Age of Ultron": {
+    "json_class": "Movie",
+    "name": "Avengers: Age of Ultron",
+    "url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Don Cheadle",
+      "Aaron Taylor-Johnson",
+      "Elizabeth Olsen",
+      "Paul Bettany",
+      "Cobie Smulders",
+      "Anthony Mackie",
+      "Hayley Atwell",
+      "Idris Elba",
+      "Stellan Skarsg\u00e5rd",
+      "James Spader",
+      "Samuel L. Jackson"
+    ],
+    "box_office": 1405000000,
+    "year": "2015"
+  },
+  "Ant-Man": {
+    "json_class": "Movie",
+    "name": "Ant-Man",
+    "url": "https://en.wikipedia.org/wiki/Ant-Man_(film)",
+    "actors": [
+      "Evangeline Lilly",
+      "Corey Stoll",
+      "Bobby Cannavale",
+      "Michael Pe\u00f1a",
+      "Tip \"T.I.\" Harris",
+      "Anthony Mackie",
+      "Wood Harris",
+      "Judy Greer",
+      "David Dastmalchian",
+      "Michael Douglas"
+    ],
+    "box_office": 519299999,
+    "year": "2015"
+  },
+  "Playing It Cool": {
+    "json_class": "Movie",
+    "name": "Playing It Cool",
+    "url": "https://en.wikipedia.org/wiki/Playing_It_Cool",
+    "actors": [
+      "Chris Evans",
+      "Michelle Monaghan",
+      "Anthony Mackie",
+      "Aubrey Plaza",
+      "Patrick Warburton",
+      "Ioan Gruffudd",
+      "Ashley Tisdale",
+      "Topher Grace"
+    ],
+    "box_office": null,
+    "year": null
+  },
+  "Captain America: Civil War": {
+    "json_class": "Movie",
+    "name": "Captain America: Civil War",
+    "url": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War",
+    "actors": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Scarlett Johansson",
+      "Sebastian Stan",
+      "Anthony Mackie",
+      "Don Cheadle",
+      "Jeremy Renner",
+      "Chadwick Boseman",
+      "Paul Bettany",
+      "Elizabeth Olsen",
+      "Paul Rudd",
+      "Emily VanCamp",
+      "Tom Holland",
+      "Frank Grillo",
+      "William Hurt",
+      "Daniel Br\u00fchl"
+    ],
+    "box_office": 1,
+    "year": "2016"
+  },
+  "Gifted": {
+    "json_class": "Movie",
+    "name": "Gifted",
+    "url": "https://en.wikipedia.org/wiki/Gifted_(film)",
+    "actors": [
+      "Chris Evans",
+      "Mckenna Grace",
+      "Lindsay Duncan",
+      "Jenny Slate",
+      "Octavia Spencer"
+    ],
+    "box_office": 43000000,
+    "year": "2017"
+  },
+  "Spider-Man: Homecoming": {
+    "json_class": "Movie",
+    "name": "Spider-Man: Homecoming",
+    "url": "https://en.wikipedia.org/wiki/Spider-Man:_Homecoming",
+    "actors": [
+      "Tom Holland",
+      "Michael Keaton",
+      "Jon Favreau",
+      "Zendaya",
+      "Donald Glover",
+      "Tyne Daly",
+      "Marisa Tomei",
+      "Robert Downey Jr."
+    ],
+    "box_office": 8,
+    "year": "2017"
+  },
+  "Avengers: Endgame": {
+    "json_class": "Movie",
+    "name": "Avengers: Endgame",
+    "url": "https://en.wikipedia.org/wiki/Avengers:_Endgame",
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo",
+      "Chris Evans",
+      "Scarlett Johansson",
+      "Benedict Cumberbatch",
+      "Don Cheadle",
+      "Tom Holland",
+      "Chadwick Boseman",
+      "Paul Bettany",
+      "Elizabeth Olsen",
+      "Anthony Mackie",
+      "Sebastian Stan",
+      "Letitia Wright",
+      "Dave Bautista",
+      "Zoe Saldana",
+      "Josh Brolin",
+      "Chris Pratt",
+      "Jeremy Renner",
+      "Evangeline Lilly",
+      "Jon Favreau",
+      "Paul Rudd",
+      "Brie Larson"
+    ],
+    "box_office": null,
+    "year": "2019"
+  },
+  "Knives Out": {
+    "json_class": "Movie",
+    "name": "Knives Out",
+    "url": "https://en.wikipedia.org/wiki/Knives_Out_(film)",
+    "actors": [
+      "Daniel Craig",
+      "Chris Evans",
+      "Lakeith Stanfield",
+      "Michael Shannon",
+      "Ana de Armas",
+      "Don Johnson",
+      "Jamie Lee Curtis",
+      "Toni Collette",
+      "Christopher Plummer"
+    ],
+    "box_office": null,
+    "year": "2019"
+  },
+  "The Red Sea Diving Resort": {
+    "json_class": "Movie",
+    "name": "The Red Sea Diving Resort",
+    "url": "https://en.wikipedia.org/wiki/The_Red_Sea_Diving_Resort",
+    "actors": [
+      "Chris Evans",
+      "Haley Bennett",
+      "Michael K. Williams",
+      "Michiel Huisman",
+      "Alessandro Nivola",
+      "Greg Kinnear",
+      "Ben Kingsley"
+    ],
+    "box_office": null,
+    "year": null
+  },
+  "Chris Evans": {
+    "json_class": "Actor",
+    "name": "Chris Evans",
+    "movies": [
+      "The Newcomers",
+      "Not Another Teen Movie",
+      "The Perfect Score",
+      "Cellular",
+      "Fierce People",
+      "Fantastic Four",
+      "London",
+      "TMNT",
+      "Sunshine",
+      "Fantastic Four: Rise of the Silver Surfer",
+      "The Nanny Diaries",
+      "Battle for Terra",
+      "Street Kings",
+      "The Loss of a Teardrop Diamond",
+      "Push",
+      "The Losers",
+      "Scott Pilgrim vs. the World",
+      "Puncture",
+      "Captain America: The First Avenger",
+      "What's Your Number?",
+      "The Avengers",
+      "The Iceman",
+      "Snowpiercer",
+      "Thor: The Dark World",
+      "Captain America: The Winter Soldier",
+      "Before We Go",
+      "Avengers: Age of Ultron",
+      "Ant-Man",
+      "Playing It Cool",
+      "Captain America: Civil War",
+      "Gifted",
+      "Spider-Man: Homecoming",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Knives Out",
+      "The Red Sea Diving Resort"
+    ]
+  },
+  "Benedict Cumberbatch": {
+    "json_class": "Actor",
+    "name": "Benedict Cumberbatch",
+    "movies": [
+      "Benedict Cumberbatch"
+    ]
+  },
+  "Don Cheadle": {
+    "json_class": "Actor",
+    "name": "Don Cheadle",
+    "movies": [
+      "Moving Violations",
+      "Hamburger Hill",
+      "Colors",
+      "Roadside Prophets",
+      "The Meteor Man",
+      "Things to Do in Denver When You're Dead",
+      "Devil in a Blue Dress",
+      "Rebound: The Legend of Earl \"The Goat\" Manigault",
+      "Volcano",
+      "Rosewood",
+      "Boogie Nights",
+      "Out of Sight",
+      "The Rat Pack",
+      "Bulworth",
+      "Traffic",
+      "Mission to Mars",
+      "The Family Man",
+      "Rush Hour 2",
+      "Things Behind the Sun",
+      "Manic",
+      "Swordfish",
+      "Ticker",
+      "Ocean's Eleven",
+      "Abby Singer",
+      "The United States of Leland",
+      "Ocean's Twelve",
+      "After the Sunset",
+      "The Assassination of Richard Nixon",
+      "citation needed",
+      "Hotel Rwanda",
+      "Crash",
+      "The Dog Problem",
+      "King Leopold's Ghost",
+      "Reign Over Me",
+      "Talk to Me",
+      "Ocean's Thirteen",
+      "Darfur Now",
+      "Traitor",
+      "Hotel for Dogs",
+      "The People Speak",
+      "Brooklyn's Finest",
+      "Iron Man 2",
+      "The Guard",
+      "Flight",
+      "Iron Man 3",
+      null,
+      "Miles Ahead",
+      null,
+      "Kevin Hart: What Now?",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Prince of Darkness"
+    ]
+  },
+  "Tom Holland": {
+    "json_class": "Actor",
+    "name": "Tom Holland",
+    "movies": [
+      "Arrietty",
+      "The Impossible",
+      "How I Live Now",
+      "Locke",
+      "In the Heart of the Sea",
+      "Captain America: Civil War",
+      "Pilgrimage",
+      "Samuel Insull",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Todd Hewitt",
+      "The Voyage of Doctor Dolittle"
+    ]
+  },
+  "Chadwick Boseman": {
+    "json_class": "Actor",
+    "name": "Chadwick Boseman",
+    "movies": [
+      "The Express",
+      "Jackie Robinson",
+      "Draft Day",
+      "James Brown",
+      "Gods of Egypt",
+      "T'Challa / Black Panther",
+      "Marshall",
+      "Black Panther",
+      "Avengers: Endgame"
+    ]
+  },
+  "Paul Bettany": {
+    "json_class": "Actor",
+    "name": "Paul Bettany",
+    "movies": [
+      "Short"
+    ]
+  },
+  "Elizabeth Olsen": {
+    "json_class": "Actor",
+    "name": "Elizabeth Olsen",
+    "movies": [
+      "Martha Marcy May Marlene",
+      "Silent House",
+      "Peace, Love & Misunderstanding",
+      "Red Lights",
+      "Liberal Arts",
+      "Kill Your Darlings",
+      "Very Good Girls",
+      "In Secret",
+      "Oldboy",
+      "Captain America: The Winter Soldier",
+      "Godzilla",
+      "Avengers: Age of Ultron",
+      "I Saw the Light",
+      "Captain America: Civil War",
+      "Ingrid Goes West",
+      "Wind River",
+      "Kodachrome",
+      "Avengers: Infinity War",
+      "Avengers: Endgame"
+    ]
+  },
+  "Anthony Mackie": {
+    "json_class": "Actor",
+    "name": "Anthony Mackie",
+    "movies": [
+      "8 Mile",
+      "Brother to Brother",
+      "The Man",
+      "Freedomland",
+      "Eagle Eye",
+      "The Hurt Locker",
+      "Tupac Shakur",
+      "Night Catches Us",
+      "The Adjustment Bureau",
+      "Man on a Ledge",
+      "William H. Johnson",
+      "Gangster Squad",
+      "Captain America: The Winter Soldier",
+      "Playing It Cool",
+      "Triple 9",
+      "Detroit",
+      "Avengers: Infinity War",
+      "IO",
+      "Against All Enemies"
+    ]
+  },
+  "Sebastian Stan": {
+    "json_class": "Actor",
+    "name": "Sebastian Stan",
+    "movies": [
+      "71 Fragments of a Chronology of Chance",
+      "Tony n' Tina's Wedding",
+      "Red Doors",
+      "The Architect",
+      "The Education of Charlie Banks",
+      "Rachel Getting Married",
+      "Spread",
+      "Hot Tub Time Machine",
+      "Captain America: The First Avenger",
+      "Gone",
+      "Captain America: The Winter Soldier",
+      "The Bronze",
+      "Captain America: Civil War",
+      "Logan Lucky",
+      "Jeff Gillooly",
+      "Black Panther",
+      "The Last Full Measure",
+      "Untitled Drake Doremus film",
+      "The Devil All the Time"
+    ]
+  },
+  "Danai Gurira": {
+    "json_class": "Actor",
+    "name": "Danai Gurira",
+    "movies": [
+      "The Visitor",
+      "Ghost Town",
+      "3 Backyards",
+      "Restless City",
+      "Mother of George",
+      "Tinker Bell and the Legend of the NeverBeast",
+      "All Eyez on Me",
+      "Black Panther",
+      "MTV Movie Award for Best Fight",
+      "Avengers: Endgame",
+      "Godzilla vs. Kong"
+    ]
+  },
+  "Letitia Wright": {
+    "json_class": "Actor",
+    "name": "Letitia Wright",
+    "movies": [
+      "Victim",
+      "My Brother the Devil",
+      "Urban Hymn",
+      "The Commuter",
+      "Shuri",
+      "Avengers: Endgame",
+      "Guava Island"
+    ]
+  },
+  "Zoe Saldana": {
+    "json_class": "Actor",
+    "name": "Zoe Saldana",
+    "movies": [
+      "Center Stage",
+      "Get Over It",
+      "Crossroads",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "The Terminal",
+      "Constellation",
+      "Premium",
+      "After Sex",
+      "Vantage Point",
+      "Star Trek",
+      "The Losers",
+      "The Words",
+      "Blood Ties",
+      "Unity",
+      "Gamora",
+      "Nina",
+      "Guardians of the Galaxy Vol. 2",
+      "Avengers: Infinity War",
+      "Missing Link",
+      "Avatar 2",
+      "Avatar 3"
+    ]
+  },
+  "Josh Brolin": {
+    "json_class": "Actor",
+    "name": "Josh Brolin",
+    "movies": [
+      "The Goonies",
+      "Thrashin'",
+      "Bed of Roses",
+      "Mimic",
+      "The Mod Squad",
+      "Hollow Man",
+      "Milwaukee, Minnesota",
+      "Melinda and Melinda",
+      "Into the Blue",
+      "The Dead Girl",
+      "Grindhouse",
+      "W.",
+      "Dan White",
+      "Women in Trouble",
+      "Jonah Hex",
+      "Men in Black 3",
+      "Gangster Squad",
+      "Guardians of the Galaxy",
+      "Dwight McCarthy",
+      "Avengers: Age of Ultron",
+      "Beck Weathers",
+      "Hail, Caesar!",
+      "Only the Brave",
+      "The Legacy of a Whitetail Deer Hunter",
+      "Cable",
+      "Avengers: Endgame"
+    ]
+  },
+  "Chris Pratt": {
+    "json_class": "Actor",
+    "name": "Chris Pratt",
+    "movies": [
+      "Strangers with Candy",
+      "Wieners",
+      "Bride Wars",
+      "Take Me Home Tonight",
+      "Scott Hatteberg",
+      "The Five-Year Engagement",
+      "Movie 43",
+      "The Lego Movie",
+      "Peter Quill / Star-Lord",
+      "Jurassic World",
+      "The Magnificent Seven",
+      "Guardians of the Galaxy Vol. 2",
+      "Avengers: Infinity War",
+      "The Lego Movie 2: The Second Part",
+      "Onward"
+    ]
+  }
+}
